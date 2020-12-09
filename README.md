@@ -35,7 +35,8 @@ The hackathon prototype is split into two interfaces,
 <h1> NOTE <h1>
 1. Please make sure you run flutterapp and whatsapp on different phones to avoid any issues as it should work that way
 2. The flutter app we have shared in drive link has a starting issue. After installing, exit the installer screen and click icon to open the app
-
+3. GPS should be on before starting flutter app
+  
 ### Instructions For Using The WhatsApp Demo
 
 Send a WhatsApp message to +1 415 523 8886 with code join wrote-rhyme!

@@ -32,6 +32,31 @@ The hackathon prototype is split into two interfaces,
 ![Picture 2](./assets/2.png)
 ![Picture 3](./assets/3.png)
 
+<h1> NOTE <h1>
+1. Please make sure you run flutterapp and whatsapp on different phones to avoid any issues as it should work that way
+2. The flutter app we have shared in drive link has a starting issue. After installing, exit the installer screen and click icon to open the app
+
+### Instructions For Using The WhatsApp Demo
+
+Send a WhatsApp message to +1 415 523 8886 with code join wrote-rhyme!
+Please make sure to follow the format. Here is a sample you can copy paste to check out the demo.
+```
+Care Taker Name: Saif;
+Care Taker CNIC: 12345;
+Patient Name: Saif;
+Age: 21;
+Hospital: Aga Khan;
+Patient Condition: Stable;
+Reason For Transport: Heart;
+Special Needs: None;
+Pre Existing Conditions: None;
+```
+
+You can choose either from 'English', or 'Urdu'. There is also a Voice Note for instructions if you prefer that.
+
+Below attached is also an image of the complete intended flow,
+![Complete flow](./assets/completeFlow.jpeg)
+
 ### Images, Flutter for AmbER Driver Service
 
 ![Picture 4](./assets/4.jpeg)

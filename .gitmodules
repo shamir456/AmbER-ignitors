@@ -1,3 +1,6 @@
 [submodule "Messages-With-Hope---WhatsApp"]
 	path = Messages-With-Hope---WhatsApp
 	url = https://github.com/Rubix982/Messages-With-Hope---WhatsApp.git
+[submodule "amber-ambulance-cloud"]
+	path = amber-ambulance-cloud
+	url = https://github.com/hassan11196/amber-ambulance-cloud.git

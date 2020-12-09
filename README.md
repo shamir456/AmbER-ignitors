@@ -24,6 +24,7 @@ The hackathon prototype is split into two interfaces,
 2. One for the AmbER driver. A kind of Uber which helps drivers find the most optimal route for the patient and the hospital they wish to visit
   1. This is based on Flutter and offers a Uber like experience for quick navigation
   2. To test out the demo, you can download the APK file [here](https://drive.google.com/file/d/1J0Ml9F7TPbtfGhwX_8VJtaX6w7YPkHLv/view)!
+  3. To login in to the application, please use these credentials, Email: Spam11196@gmail.com, Password: shahmeer
 3. Both the applications will communicate with each other to update the driver and user of the information they need. For example, AmbER on WhatsApp hands out a form to the care taker / patient to fill out information that would be needed by the hospital and the driver, and this gets forwarded to both. The user has the option to get updates of the driver by returning the driver's phone number.
 
 ### Images For Twilio + WhatsApp

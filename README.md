@@ -40,7 +40,7 @@ The hackathon prototype is split into two interfaces,
 ### Instructions For Using The WhatsApp Demo
 
 Send a WhatsApp message to +1 415 523 8886 with code  "join wrote-rhyme"
-Please make sure to follow the format. Here is a sample you can copy paste to check out the demo.
+Please make sure to follow the format.Start the process with Hello . Here is a sample you can copy paste to check out the demo.
 ```
 Care Taker Name: Saif;
 Care Taker CNIC: 12345;

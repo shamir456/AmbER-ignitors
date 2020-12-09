@@ -20,9 +20,16 @@ The hackathon prototype is split into two interfaces,
 
 1. One for the user. This can be the patient themselves, or someone on behalf of the patient ( care taker ),
   1. This is based on WhatsApp, and uses Twilio as a service for inter communication
+  2. It has textual instructions, as well as an audio clip for English / Urdu routes and an image on how to share your image via a pin
 2. One for the AmbER driver. A kind of Uber which helps drivers find the most optimal route for the patient and the hospital they wish to visit
   2. This is based on Flutter and offers a Uber like experience for quick navigation
 3. Both the applications will communicate with each other to update the driver and user of the information they need. For example, AmbER on WhatsApp hands out a form to the care taker / patient to fill out information that would be needed by the hospital and the driver, and this gets forwarded to both. The user has the option to get updates of the driver by returning the driver's phone number.
+
+### Images For Twilio + WhatsAPP
+
+![Picture 1](./assets/1.png)
+![Picture 2](./assets/2.png)
+![Picture 3](./assets/3.png)
 
 ## Challenges We Ran Into
 

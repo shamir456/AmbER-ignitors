@@ -1,4 +1,4 @@
-# AmbER-ignitors - Life saving solution to deliver time-critical patients to hospitals through Ambulance.
+# AmbER - Life saving solution to deliver time-critical patients to hospitals through Ambulance.
 
 ## Inspiration
 
